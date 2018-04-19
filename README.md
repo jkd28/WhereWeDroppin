@@ -8,4 +8,4 @@ This extremely common question has plagued friend groups and random parties alik
   `python3 droplocation.py`
 
 
-*Disclaimer: I don't own the rights to Fornite and none of this is intended to infringe on any exiting copyrights or trademarks*
+*Disclaimer: I don't own the rights to Fornite and none of this is intended to infringe on any exiting copyrights or trademarks owned by EPIC Games or any other entity*
