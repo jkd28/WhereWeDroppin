@@ -26,14 +26,9 @@ def get_locations():
     ]
     return drop_locations
 
-def get_drop_location(possible_locations):
-    random.shuffle(possible_locations)
-    random_loc = random.randrange(0,len(possible_locations))
-    return possible_locations[random_loc]
-
 def main():
     possible_locations = get_locations()
-    drop_location = get_drop_location(possible_locations)
+    drop_location = random.choice(possible_locations)
     print("Drop Location: \n\r    " + drop_location)
 
 
